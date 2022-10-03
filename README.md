@@ -16,6 +16,7 @@
 - Concept de Interior del Invernadero
 - Concept de los edificios del Carro
 - Interfaz 
+- -Mapa de Juego
 - Extras que surjan por necesidad
 ### SECUNDARIOS:
 - Efectos especiales de habilidades e interacción
@@ -24,6 +25,11 @@
 - Extras que surjan por necesidad
 
 # PLANIFICACIÓN:
-## Semana 1 26/Sep -> 2/Sep    
-- Hacer logo de la empresa
-- Concepts de máx 3 plantas y 3 bichos
+## Semana 26/Sep -> 2/Oct    
+- Hacer logo de la empresa  ✔
+- Decidir estilo artistico ✔
+- Algunos concepts de personajes de ejemplo ✔
+## Semana 3/Oct -> 9/Oct 
+- Concepts de todas los tipos de plantas 
+- Concepts de las arenas
+- Concept de Mapa Mundi y sus nodos ✔
