@@ -11,6 +11,7 @@
 ### ESENCIALES:
 - Concept de Plantas 
 - Concept de Bichos
+- Concept de arenas de combate
 - Concept de Invernadro/Carro
 - Concept de Interior del Invernadero
 - Concept de los edificios del Carro
