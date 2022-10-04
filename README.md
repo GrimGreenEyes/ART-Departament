@@ -32,4 +32,4 @@
 ## Semana 3/Oct -> 9/Oct 
 - Concepts de todas los tipos de plantas 
 - Concepts de las arenas
-- Concept de Mapa Mundi y sus nodos ✔
+- Concept de Mapa Mundi y sus nodos 
