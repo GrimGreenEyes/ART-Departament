@@ -1,0 +1,19 @@
+NOTA CONSIDERAMOS QUE EMPEZAMOS A NUMERAR LOS FRMAES DESDE EL 1.
+
+
+						IDLE
+
+IDLE_CARA_DER-> Los dos ultimo frames deben durar la mitad, cada uno, de lo que duran los dos primeros
+IDLE_CARA_IZQ -> Empezar de Izq a Der la animación y Los dos ultimo frames,los que están a la izq en la imagen, deben durar la mitad,cada uno, de lo que duran los dos primeros
+
+IDLE_ESPALDA_DER -> Empezar de Izq a Der la animación y Los dos ultimo frames,los que están a la izq en la imagen, deben durar la mitad,cada uno, de lo que duran los dos primeros
+IDLE_ESPALDA_IZQ -> Los dos ultimo frames deben durar la mitad,cada uno, de lo que duran los dos primeros
+
+						WALK
+WALK_ESPALDA_IZQ-> Los dos ultimo frames deben durar la mitad, cada uno, de lo que duran los dos primeros
+WALK_ESPALDA_DER-> Empezar de Izq a Der la animación y Los dos ultimo frames,los que están a la izq en la imagen, deben durar la mitad,cada uno, de lo que duran los dos primeros
+¡¡¡¡¡¡¡¡¡¡¡IMPORTANTA!!!!!!!!!! :
+¡¡¡¡UN SOLO PASO DEL PEROSNAJE ES LA ANIMACIÓN ENTERA, PARA DAR DOS PASOS HAY QUE HACER LA ANIMACIÓN DOS VECES!!!! Valido solo para WALK_ESPALDA_IZQ y WALK_ESPALDA_DER.
+
+WALK_CARA_DER-> El frame 3 y 4 deben durar la mitad,cada uno, de lo que duran los dos primeros y lo mismo con los dos últimos frames.
+WALK_CARA_IZQ-> Empezar de Izq a Der la animación y hacer el cambio en la linea del tiempo con los respectivos frames, igual que se a hecho en WALK_CARA_DER
